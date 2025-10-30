@@ -1,0 +1,7 @@
+{
+    "Real Numbers Symbol": {
+        "prefix": "\\bbr",
+        "body": "\\mathbb{R}",
+        "description": "Set of real numbers"
+    }
+}
